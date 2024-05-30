@@ -37,38 +37,36 @@
 	  <!-- groupId 13 -->
 	  <testng.groupId>org.testng</testng.groupId>
 	  <!-- groupId 14 -->
-	  <axis.groupId>org.apache.axis</axis.groupId>
-	  <!-- groupId 15 -->
 	  <httpclient.groupId>org.apache.httpcomponents</httpclient.groupId>
-	  <!-- groupId 16 -->
+	  <!-- groupId 15 -->
 	  <okhttp.groupId>com.squareup.okhttp3</okhttp.groupId>
-	  <!-- groupId 17 -->
+	  <!-- groupId 16 -->
 	  <spring-web.groupId>org.springframework</spring-web.groupId>
-	  <!-- groupId 18 -->
+	  <!-- groupId 17 -->
 	  <spring-boot-autoconfigure.groupId>org.springframework.boot</spring-boot-autoconfigure.groupId>
-	  <!-- groupId 19-->
+	  <!-- groupId 18 -->
 	  <mysql-connector-java.groupId>mysql</mysql-connector-java.groupId>
-	  <!-- groupId 20 -->
+	  <!-- groupId 19 -->
 	  <spring-beans.groupId>org.springframework</spring-beans.groupId>
-	  <!-- groupId 21 -->
+	  <!-- groupId 20 -->
 	  <commons-collections.groupId>commons-collections</commons-collections.groupId>
-	  <!-- groupId 22 -->
+	  <!-- groupId 21 -->
 	  <fastjson.groupId>com.alibaba</fastjson.groupId>
-	  <!-- groupId 23 -->
+	  <!-- groupId 22 -->
 	  <logback-core.groupId>ch.qos.logback</logback-core.groupId>
-	  <!-- groupId 24 -->
+	  <!-- groupId 23 -->
 	  <spring-webmvc.groupId>org.springframework</spring-webmvc.groupId>
-	  <!-- groupId 25 -->
+	  <!-- groupId 24 -->
 	  <json.groupId>org.json</json.groupId>
-	  <!-- groupId 26 -->
+	  <!-- groupId 25 -->
 	  <spring-core.groupId>org.springframework</spring-core.groupId>
-	  <!-- groupId 27 -->
+	  <!-- groupId 26 -->
 	  <commons-beanutils.groupId>commons-beanutils</commons-beanutils.groupId>
-	  <!-- groupId 28 -->
+	  <!-- groupId 27 -->
 	  <retrofit.groupId>com.squareup.retrofit2</retrofit.groupId>
-	  <!-- groupId 29 -->
+	  <!-- groupId 28 -->
 	  <protobuf-java.groupId>com.google.protobuf</protobuf-java.groupId>
-	  <!-- groupId 30-->
+	  <!-- groupId 29 -->
 	  <h2.groupId>com.h2database</h2.groupId>
   </properties>
 </project>
